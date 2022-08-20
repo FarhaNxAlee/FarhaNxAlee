@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FarhaNxAlee
-- 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Frontend Web Development, Data Analytics
-- 💞️ I’m looking to collaborate on Any Major Project Regarding WordPress Development
-- 📫 How to reach me .. Contact on my email: farhanhaidry786@gmail.com
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning  Data Science
+- 💞️ I’m looking to collaborate on Any Major Project Regarding Data Science
+- 📫 How to reach me .. Contact on my email: onlinemediapak@gmail.com
 
 <!---
 FarhaNxAlee/FarhaNxAlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
